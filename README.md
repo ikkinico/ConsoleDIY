@@ -20,5 +20,56 @@ Dans cette présentation, On va reproduire leurs fonctionnalités sur Windows ou
 
 SOON
 
-# DOC
+---
 
+# 🎮 Create Your Steam DIY Console
+
+Bienvenue dans le guide pour créer votre propre console de jeu
+
+
+## 📋 Table des matières
+
+- [Console Windows](#console-windows)
+- [Console Linux](#console-linux)
+- [Compatibilité des Jeux sur Linux](#-compatibilité-des-jeux)
+- [Contribuer](#-contribuer)
+
+## Console Windows
+
+### Près-requis
+
+- Windows 11 24H2 builds 26100.7019 Minimum
+- Que Windows soit activé 
+
+### Outils
+
+- **[XboxFullScreenExperienceTool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool)** - Outil pour passer de Windows Desktop au FullScreen Xbox
+
+
+## Console Linux
+
+### Systèmes d'Exploitation Clé en Main
+
+
+- **[Bazzite](https://github.com/ublue-os/bazzite)** - Système d'exploitation basé sur Fedora
+  //TODO AJOUTER LA DOC BAZITTE
+- **[SteamOS](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3)** - Système d'exploitation basé sur Arch
+  //TODO AJOUTER LA DOC STEAMOS
+  
+### NixOS
+
+- **[play.nix](https://github.com/TophC7/play.nix.git)** - Flake Nix avec le néccesaire pour avoir GameScope et KDE
+
+## 🎮 Compatibilité des Jeux
+
+Avant de lancer vos jeux, consultez ces ressources :
+
+- **ProtonDB** (https://www.protondb.com) - Vérifiez si vos jeux Steam fonctionnent sous Linux/Proton
+- **AreWeAntiCheatYet** (https://areweanticheatyet.com) - Vérifiez si l'Anti Cheat du jeux existe sur Linux
+
+## 📝 Contribuer
+
+Les contributions sont bienvenues ! N'hésitez pas à :
+- Ouvrir des issues pour signaler des problèmes
+- Proposer des améliorations
+- Partager vos expériences et configurations
