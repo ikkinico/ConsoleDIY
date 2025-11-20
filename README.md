@@ -22,7 +22,7 @@ SOON
 
 ---
 
-# 🎮 Create Your Steam DIY Console
+# 🎮 Create Your DIY Console
 
 Bienvenue dans le guide pour créer votre propre console de jeu
 
@@ -65,7 +65,7 @@ Bienvenue dans le guide pour créer votre propre console de jeu
 Avant de lancer vos jeux, consultez ces ressources :
 
 - **ProtonDB** (https://www.protondb.com) - Vérifiez si vos jeux Steam fonctionnent sous Linux/Proton
-- **AreWeAntiCheatYet** (https://areweanticheatyet.com) - Vérifiez si l'Anti Cheat du jeux existe sur Linux
+- **AreWeAntiCheatYet** (https://areweanticheatyet.com) - Vérifiez si l'Anti Cheat du jeu existe sur Linux
 
 ## 📝 Contribuer
 
