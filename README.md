@@ -52,9 +52,9 @@ Bienvenue dans le guide pour créer votre propre console de jeu
 
 
 - **[Bazzite](https://github.com/ublue-os/bazzite)** - Système d'exploitation basé sur Fedora
-  //TODO AJOUTER LA DOC BAZITTE
+      => [Tuto YT d'installation](https://www.youtube.com/watch?v=LC3ByQYz5Jw&pp=ygUZaG93IHRvIGluc3RhbGwgYmF6aXR0ZSA0Mg%3D%3D)
 - **[SteamOS](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3)** - Système d'exploitation basé sur Arch
-  //TODO AJOUTER LA DOC STEAMOS
+      => [Tuto YT d'installation](https://www.youtube.com/watch?v=pkvFbUt9uAo&pp=ygUaaG93IHRvIGluc3RhbGwgc3RlYW1PUyAzLDk%3D)
   
 ### NixOS
 
